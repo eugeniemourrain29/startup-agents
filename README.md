@@ -9,6 +9,7 @@ Squad d'agents Claude qui tournent en automatique chaque jour pour développer l
 | [Veille Seconde Main](agents/veille-seconde-main.json) | 8h00 | Tendances, concurrents, opportunités | `[VEILLE]` |
 | [Contenu Marketing](agents/contenu-marketing.json) | 10h00 | Posts Instagram, Reels, newsletter, fiches produit | `[CONTENU]` |
 | [Récap & Planning](agents/recap-planning.json) | 18h00 | Bilan du jour + priorités demain | `[RÉCAP]` |
+| [Agent Commercial Prospection](agents/agent-commercial-prospection.json) | 9h00 lun-ven | Lit le Google Sheet, recherche LinkedIn, rédige messages | `[PROSPECT]` / `[PROSPECTION]` |
 
 ## Mode supervisé
 
